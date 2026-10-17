@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yadeeshwarji Dandetikar</h1>
+<h1 align="center">Hi 👋, I'm Yadeeshwarji Dandetkar</h1>
 <h3 align="center">AWS | DevOps | SRE | Linux | Cloud Computing | AI</h3>
 
 <p align="center">
