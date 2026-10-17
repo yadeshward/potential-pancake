@@ -31,18 +31,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yadeeshwarji&show_icons=true&theme=tokyonight" alt="GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadeeshwarji&layout=compact&theme=tokyonight" alt="Most used languages"/>
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - Learn cloud infrastructure and deployment  
